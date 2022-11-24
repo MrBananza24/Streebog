@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IS_Lab_Streebog", "IS_Lab_Streebog.csproj", "{04C6BB97-8820-41AC-92C5-00D28EF29FEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04C6BB97-8820-41AC-92C5-00D28EF29FEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04C6BB97-8820-41AC-92C5-00D28EF29FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04C6BB97-8820-41AC-92C5-00D28EF29FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04C6BB97-8820-41AC-92C5-00D28EF29FEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08310EB6-3170-4099-8AE0-A7623BFD94CC}
+	EndGlobalSection
+EndGlobal
